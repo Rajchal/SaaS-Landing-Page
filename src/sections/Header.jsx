@@ -42,6 +42,7 @@ const Header = () => {
       <div className="container flex h-14 items-center max-lg:px-5">
         <a className="lg:hidden flex-1 cursor-pointer z-2">
           <img src="/images/logo.svg" width={100} height={100} alt="logo" />
+          <p>IT GyaNepal</p>
         </a>
 
         <div
@@ -69,12 +70,21 @@ const Header = () => {
                       "max-lg:hidden transition-transform duration-500 cursor-pointer"
                     )}
                   >
-                    <img
-                      src="/images/logo.svg"
-                      width={100}
-                      height={100}
-                      alt="logo"
-                    />
+                    <div className="">
+                      <img
+                        src="/images/logo.svg"
+                        width={100}
+                        height={100}
+                        alt="logo"
+                      />
+                      <div className="flex text-white">
+                        IT Gya
+                        <div className="text-red-500 text-justify text-xl align-text-top inline-block">
+                          N
+                        </div>
+                        epal
+                      </div>
+                    </div>
                   </LinkScroll>
                 </li>
 
