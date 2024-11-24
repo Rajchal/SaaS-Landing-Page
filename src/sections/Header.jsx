@@ -79,7 +79,7 @@ const Header = () => {
                       />
                       <div className="flex text-white">
                         IT Gya
-                        <div className="text-red-500 text-justify text-xl align-text-top inline-block">
+                        <div className="text-red-500 text-justify text-xl align-text-top hover:align-middle">
                           N
                         </div>
                         epal
