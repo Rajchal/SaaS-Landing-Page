@@ -41,7 +41,7 @@ const Header = () => {
     >
       <div className="container flex h-14 items-center max-lg:px-5">
         <a className="lg:hidden flex-1 cursor-pointer z-2">
-          <img src="/images/tmp.svg" width={160} height={60} alt="logo" />
+          <img src="/images/tempp.svg" width={160} height={60} alt="logo" />
         </a>
 
         <div
@@ -71,7 +71,7 @@ const Header = () => {
                   >
                     <div className="flex justify-center items-center">
                       <img
-                        src="/images/tmp.svg"
+                        src="/images/tempp.svg"
                         width={200}
                         height={100}
                         alt="logo"
