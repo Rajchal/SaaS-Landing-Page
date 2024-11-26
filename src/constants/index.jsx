@@ -2,9 +2,9 @@ export const features = [
   {
     id: "0",
     icon: "/images/feature-1.png",
-    caption: "Easy integration",
-    title: "Work smarter not harder",
-    text: "With Xora, tedious tasks are history. Automation and smart processes bring your productivity to new heights. It's like having an extra cup of coffee, but without the jitters.",
+    caption: "AI Support",
+    title: "Work smarter not harder with AI",
+    text: "With IT GyaNepal AI, you can get answers to all your questions in real-time. Our AI-powered chatbot is here to help you with any queries you might have.",
     button: {
       icon: "/images/magictouch.svg",
       title: "Watch the demo",
