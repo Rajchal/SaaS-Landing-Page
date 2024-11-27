@@ -160,27 +160,27 @@ export const plans = [
 export const testimonials = [
   {
     id: "0",
-    name: "Jessica Saunders",
-    role: "Globalnomads",
+    name: "Krishal Shilpakar",
+    role: "BCA Student",
     avatarUrl: "/images/testimonials/jessica-saunders.png",
     comment:
-      "Xora's customer support is second to none! They’re like my tech superheroes, always there when I need them.",
+      "I was skeptical at first, but now I can't imagine my Exams preparation without IT GyaNepal. It's that impactful.",
   },
   {
     id: "1",
-    name: "Mark Erixon",
-    role: "Vid capital intl",
+    name: "Pranav Karmacharya",
+    role: "BIM Student",
     avatarUrl: "/images/testimonials/mark-erixon.png",
     comment:
-      "I was skeptical at first, but now I can't imagine our content operations without it. It's that impactful.",
+      "The AI-generated answers are a game-changer. I've never felt more prepared for my exams.",
   },
   {
     id: "2",
-    name: "Melanie Hurst",
-    role: "Cyberleap",
+    name: "Abheet Budhathoki",
+    role: "CSIT Student",
     avatarUrl: "/images/testimonials/melanie-hurst.png",
     comment:
-      "Adopting this software was a breeze. It's made everyday tasks so much simpler.",
+      "I can't believe I didn't start using IT GyaNepal sooner. It's been a game-changer for my studies.",
   },
   {
     id: "3",
