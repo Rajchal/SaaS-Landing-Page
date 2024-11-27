@@ -49,39 +49,39 @@ export const details = [
 export const faq = [
   {
     id: "0",
-    question: "How easy is it to setup Xora?",
+    question: "Is AI feature available in all plans?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes it is! Our AI feature is available in all plans. You can get answers to all your questions in real-time.",
   },
   {
     id: "1",
-    question: "Can I integrate Xora with other platforms?",
+    question: "Can I Buy a plan for my Group of friends?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes you can! We have a special plan for groups that gives you a 50% discount per member. Perfect for study groups and teams.",
   },
   {
     id: "2",
     question: "How often do you add new content?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "We add new content every week! Our team of experts is constantly updating our question bank to give you the best possible study experience.",
   },
   {
     id: "3",
     question: "What your refund policy?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "We offer a 30-day money-back guarantee. If you’re not satisfied with our service, we’ll refund your payment, no questions asked.",
   },
   {
     id: "4",
-    question: "Do you have corporate plans?",
+    question: "Do you offer discounts for yearly subscriptions?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "Yes we do! If you choose to pay yearly, you get a 20% discount on your subscription. That’s 2 months free every year!",
   },
   {
     id: "5",
-    question: "What happens when I’m out of storage?",
+    question: "Is AI feature limited to certain subjects?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "No it’s not! Our AI feature is available for all subjects. Whether you’re studying for BCA, BIT, CSIT, BIM or anything else, our AI chatbot is here to help.",
   },
   {
     id: "6",
@@ -91,21 +91,21 @@ export const faq = [
   },
   {
     id: "7",
-    question: "How do I invite my team?",
+    question: "How do I invite my Friend Group?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "You can buy the group plan and inviteyour friend via sending them the join group code. They can join the group by entering the code.",
   },
   {
     id: "8",
-    question: "Do you offer training for individuals and teams?",
+    question: "Do you offer Video Support?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "We offer video support for all our plans. You can get in touch with our teachers and get your doubts cleared in real-time via video chat.",
   },
   {
     id: "9",
     question: "I’m locked out of my account what do I do?",
     answer:
-      "Absolutely! Not only you can upgrade your plan at any time but you also get a prorated discount giving you maximum value for your subscription.",
+      "You can reset your password by clicking on the forgot password link. If you’re still having trouble, you can contact our support team at",
   },
 ];
 
