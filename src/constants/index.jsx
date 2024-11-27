@@ -184,27 +184,27 @@ export const testimonials = [
   },
   {
     id: "3",
-    name: "Alicia Barker",
-    role: "Cyberleap",
+    name: "Prashant Shrestha",
+    role: "BIT Student",
     avatarUrl: "/images/testimonials/alicia-barker.png",
     comment:
-      "The analytics feature is like having a personal fortune teller. It's been instrumental in guiding our business decisions.",
+      "I've been using IT GyaNepal for a few months now, and I'm already seeing results. Best decision for my studies!",
   },
   {
     id: "4",
-    name: "Becky Snider",
-    role: "Floclips",
+    name: "Koshish Lamo",
+    role: "CSIT Student",
     avatarUrl: "/images/testimonials/becky-snider.png",
     comment:
-      "Switched to Xora last month, and I'm already seeing results. Best decision for our team!",
+      "This platform has been a lifesaver. I can't imagine my studies without it now.",
   },
   {
     id: "5",
-    name: "Jim Bradley",
-    role: "Vid capital intl",
+    name: "Palpasha Karmacharya",
+    role: "BIM Student",
     avatarUrl: "/images/testimonials/jim-bradley.png",
     comment:
-      "The efficiency boost is undeniable. This platform has transformed our workflow, forever.",
+      " I never thought I'd be able to study so efficiently. IT GyaNepal has been a game-changer for me.",
   },
 ];
 
