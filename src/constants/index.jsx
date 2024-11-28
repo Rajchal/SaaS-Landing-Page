@@ -14,8 +14,8 @@ export const features = [
     id: "1",
     icon: "/images/feature-2.png",
     caption: "Get Answers To All Your Questions",
-    title:
-      "The Answers written by out top students and teachers are all available to you. Rest assured, you're in good hands.",
+    title: "Get answers to all your questions",
+    text: "The Answers written by out top students and teachers are all available to you. Rest assured, you're in good hands.",
     button: {
       icon: "/images/docs.svg",
       title: "Read the docs",
@@ -27,22 +27,22 @@ export const details = [
   {
     id: "0",
     icon: "/images/detail-1.png",
-    title: "AI automated video editing",
+    title: "Unlimited acces to all answers",
   },
   {
     id: "1",
     icon: "/images/detail-2.png",
-    title: "Collaborate with your team",
+    title: "Real-time collaboration with teachers",
   },
   {
     id: "2",
     icon: "/images/detail-3.png",
-    title: "Ultra fast cloud-engine",
+    title: "Access to our question bank",
   },
   {
     id: "3",
     icon: "/images/detail-4.png",
-    title: "24 / 7 Customer support",
+    title: "Weekly updates to our question bank",
   },
 ];
 
