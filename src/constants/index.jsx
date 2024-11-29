@@ -162,7 +162,7 @@ export const testimonials = [
     id: "0",
     name: "Krishal Shilpakar",
     role: "BCA Student",
-    avatarUrl: "/images/testimonials/jessica-saunders.png",
+    avatarUrl: "/images/testimonials/BCAPremium.png",
     comment:
       "I was skeptical at first, but now I can't imagine my Exams preparation without IT GyaNepal. It's that impactful.",
   },
@@ -170,7 +170,7 @@ export const testimonials = [
     id: "1",
     name: "Pranav Karmacharya",
     role: "BIM Student",
-    avatarUrl: "/images/testimonials/mark-erixon.png",
+    avatarUrl: "/images/testimonials/BIMPremium.png",
     comment:
       "The AI-generated answers are a game-changer. I've never felt more prepared for my exams.",
   },
@@ -178,7 +178,7 @@ export const testimonials = [
     id: "2",
     name: "Abheet Budhathoki",
     role: "CSIT Student",
-    avatarUrl: "/images/testimonials/melanie-hurst.png",
+    avatarUrl: "/images/testimonials/CSITPremium.png",
     comment:
       "I can't believe I didn't start using IT GyaNepal sooner. It's been a game-changer for my studies.",
   },
@@ -186,7 +186,7 @@ export const testimonials = [
     id: "3",
     name: "Prashant Shrestha",
     role: "BIT Student",
-    avatarUrl: "/images/testimonials/alicia-barker.png",
+    avatarUrl: "/images/testimonials/BITGroup.png",
     comment:
       "I've been using IT GyaNepal for a few months now, and I'm already seeing results. Best decision for my studies!",
   },
@@ -194,7 +194,7 @@ export const testimonials = [
     id: "4",
     name: "Koshish Lamo",
     role: "CSIT Student",
-    avatarUrl: "/images/testimonials/becky-snider.png",
+    avatarUrl: "/images/testimonials/CSITPremium.png",
     comment:
       "This platform has been a lifesaver. I can't imagine my studies without it now.",
   },
@@ -202,47 +202,9 @@ export const testimonials = [
     id: "5",
     name: "Palpasha Karmacharya",
     role: "BIM Student",
-    avatarUrl: "/images/testimonials/jim-bradley.png",
+    avatarUrl: "/images/testimonials/BIMNormal.png",
     comment:
       " I never thought I'd be able to study so efficiently. IT GyaNepal has been a game-changer for me.",
-  },
-];
-
-export const logos = [
-  {
-    id: "0",
-    title: "Afterpay",
-    url: "/images/logos/afterpay.svg",
-    width: 156,
-    height: 48,
-  },
-  {
-    id: "1",
-    title: "Amplitude",
-    url: "/images/logos/amplitude.svg",
-    width: 194,
-    height: 48,
-  },
-  {
-    id: "2",
-    title: "Sonos",
-    url: "/images/logos/sonos.svg",
-    width: 115,
-    height: 48,
-  },
-  {
-    id: "3",
-    title: "Maze",
-    url: "/images/logos/maze.svg",
-    width: 142,
-    height: 48,
-  },
-  {
-    id: "4",
-    title: "Drips",
-    url: "/images/logos/drips.svg",
-    width: 77,
-    height: 48,
   },
 ];
 
@@ -397,7 +359,7 @@ export const links = [
     id: "3",
     title: "Web",
     icon: <Web />,
-    url: "#",
+    url: "itgyanepal.com",
   },
 ];
 
@@ -424,6 +386,6 @@ export const socials = [
     id: "3",
     title: "Discord",
     icon: "/images/socials/discord.svg",
-    url: "#",
+    url: "https://discord.gg/Be57jn8dDy",
   },
 ];

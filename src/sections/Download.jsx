@@ -1,5 +1,5 @@
 import { Element } from "react-scroll";
-import { links, logos } from "../constants/index.jsx";
+import { links } from "../constants/index.jsx";
 import { Marker } from "../components/Marker.jsx";
 
 const Download = () => {
@@ -14,10 +14,10 @@ const Download = () => {
             <div className="relative mr-6 flex-540 max-xl:flex-280 max-lg:flex256 max-md:flex-100">
               <div className="mb-10">
                 <img
-                  src="/images/xora.svg"
+                  src="/images/logo.svg"
                   width={160}
                   height={55}
-                  alt="xora"
+                  alt="IT GyaNepal"
                 />
               </div>
 
@@ -32,20 +32,26 @@ const Download = () => {
                     key={id}
                     className="download_tech-link download_tech-link_last-before download_tech-link_last-after"
                   >
-                    <a
-                      href={url}
+                    <button
+                      onClick={
+                        url == "#"
+                          ? () =>
+                              alert(
+                                "Under Construction Please Use our Web App till then"
+                              )
+                          : () =>
+                              window.open(
+                                url.startsWith("http") ? url : `http://${url}`,
+                                "_blank"
+                              )
+                      }
                       className="size-22 download_tech-icon_before relative flex items-center justify-center rounded-half border-2 border-s3 bg-s1 transition-borderColor duration-500"
                     >
                       <span className="absolute -top-2 rotate-90">
                         <Marker />
                       </span>
-                      <img
-                        src={"/images/lines.svg"}
-                        alt="lines"
-                        className="absolute size-13/20 object-contain"
-                      />
                       <span className="download_tech-icon">{icon}</span>
-                    </a>
+                    </button>
                   </li>
                 ))}
               </ul>
@@ -69,14 +75,6 @@ const Download = () => {
               </div>
             </div>
           </div>
-
-          <ul className="mt-24 flex justify-center max-lg:hidden">
-            {logos.map(({ id, url, width, height, title }) => (
-              <li key={id} className="mx-10">
-                <img src={url} width={width} height={height} alt={title} />
-              </li>
-            ))}
-          </ul>
         </div>
       </Element>
     </section>
