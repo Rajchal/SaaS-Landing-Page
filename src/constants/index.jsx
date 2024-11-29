@@ -6,7 +6,7 @@ export const features = [
     title: "Work smarter not harder with AI",
     text: "With IT GyaNepal AI, you can get answers to all your questions in real-time. Our AI-powered chatbot is here to help you with any queries you might have.",
     button: {
-      icon: "/images/magictouch.svg",
+      icon: "/images/yout.svg",
       title: "Watch the demo",
     },
   },
@@ -17,8 +17,8 @@ export const features = [
     title: "Get answers to all your questions",
     text: "The Answers written by out top students and teachers are all available to you. Rest assured, you're in good hands.",
     button: {
-      icon: "/images/docs.svg",
-      title: "Read the docs",
+      icon: "/images/doc.svg",
+      title: "Questions",
     },
   },
 ];
@@ -122,7 +122,7 @@ export const plans = [
       "Answers to all the Questions",
       "Direct Acess to Question Bank",
     ],
-    icon: "/images/circle.svg",
+    icon: "/images/booky.svg",
     logo: "/images/plan-1.png",
   },
   {
@@ -137,7 +137,7 @@ export const plans = [
       "Unlimited access to Question Bank",
       "Acces to our teachers",
     ],
-    icon: "/images/triangle.svg",
+    icon: "/images/trophy.svg",
     logo: "/images/plan-2.png",
   },
   {
@@ -152,7 +152,7 @@ export const plans = [
       "50% off per member",
       "Real-time collaboration",
     ],
-    icon: "/images/hexagon.svg",
+    icon: "/images/bookies.svg",
     logo: "/images/plan-3.png",
   },
 ];

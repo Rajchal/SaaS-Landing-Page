@@ -7,17 +7,19 @@ const Hero = () => {
       <Element name="hero">
         <div className="container">
           <div className="relative z-2 max-w-512 max-lg:max-w-388">
-            <div className="caption small-2 uppercase text-p3">Easy Notes</div>
+            <div className="caption small-2 uppercase text-p3">
+              Your Way to Good Grades
+            </div>
             <h1 className="mb-6 h1 text-p4 uppercase max-lg:mb-7 max-lg:h2 max-md:mb-4 max-md:text-5xl max-md:leading-12">
-              Amazingly Simple
+              Simple And Easy Notes
             </h1>
             <p className="max-w-440 mb-14 body-1 max-md:mb-10">
-              We provide simple and easy to use notes for your examinations
-              questions answers ,AI support and also have question papers for
+              We provide simple and easy to use notes for your examinations.
+              Questions, Answers, AI support and also have question papers for
               your practice.
             </p>
             <LinkScroll to="features" offset={-100} spy smooth>
-              <Button icon="/images/zap.svg">Try it now</Button>
+              <Button icon="/images/fire.svg">Try it now</Button>
             </LinkScroll>
           </div>
           <div className="absolute -top-32 left-[calc(50%-340px)] w-[1230px] pointer-events-none hero-img_res">
